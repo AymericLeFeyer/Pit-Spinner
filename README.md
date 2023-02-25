@@ -1,8 +1,4 @@
-# Pit UI
-
-To use Pit UI components, you need to import both `css` and `js` files.
-
-## Pit Loader
+## Pit Loader Spinner
 
 ![loader](assets/pit-loader.gif)
 

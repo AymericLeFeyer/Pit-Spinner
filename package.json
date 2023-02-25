@@ -1,0 +1,19 @@
+{
+  "name": "pit-spinner",
+  "version": "1.0.0",
+  "description": "Pit Loader Spinner",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymericLeFeyer/Pit-Spinner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymericLeFeyer/Pit-Spinner/issues"
+  },
+  "homepage": "https://github.com/AymericLeFeyer/Pit-Spinner#readme"
+}
