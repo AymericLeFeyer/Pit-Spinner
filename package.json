@@ -1,14 +1,15 @@
 {
-  "name": "pit-spinner",
+  "name": "vue-pit-spinner",
   "version": "1.0.0",
-  "description": "Pit Loader Spinner",
-  "main": "script.js",
+  "description": "Vue Pit Spinner",
+  "main": "script",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AymericLeFeyer/Pit-Spinner.git"
+    "url": "git+https://github.com/AymericLeFeyer/Pit-Spinner.git",
+    "branch": "vue"
   },
   "author": "",
   "license": "ISC",
